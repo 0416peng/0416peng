@@ -9,8 +9,8 @@
 
 </div>
 
-![头像](image/头像.jpg)
+![头像](image/11799189881616349068.jpeg)
 
 ![Visitor Count](https://profile-counter.glitch.me/0416peng/count.svg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
+
