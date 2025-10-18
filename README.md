@@ -11,6 +11,6 @@
 
 ![头像](image/11799189881616349068.jpeg)
 
-![Visitor Count](https://profile-counter.glitch.me/0416peng/count.svg)
+
 
 
